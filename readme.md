@@ -12,6 +12,8 @@ The .env file includes settings for preconfigured Postgres instance in Google Cl
 
 ## Start and log in to Directus admin interface
 
+Clone the repo and run `npm install`.
+
 Run `npx directus start` to start the service and log in via `http://localhost:8055`.
 
 * username: admin@example.com
